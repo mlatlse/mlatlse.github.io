@@ -2,32 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on LSE SU Machine Learning Society</title>
-    <link>chrischia06.github.io/categories/</link>
+    <link>http://chrischia06.github.io/categories/</link>
     <description>Recent content in Categories on LSE SU Machine Learning Society</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sat, 10 Oct 2015 13:07:31 +0200</lastBuildDate>
     
-	<atom:link href="chrischia06.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://chrischia06.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Lorem</title>
-      <link>chrischia06.github.io/categories/lorem/</link>
-      <pubDate>Sat, 10 Oct 2015 13:07:31 +0200</pubDate>
-      
-      <guid>chrischia06.github.io/categories/lorem/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Ipsum</title>
-      <link>chrischia06.github.io/categories/ipsum/</link>
-      <pubDate>Thu, 17 Sep 2015 13:47:08 +0200</pubDate>
-      
-      <guid>chrischia06.github.io/categories/ipsum/</guid>
-      <description></description>
-    </item>
     
   </channel>
 </rss>
