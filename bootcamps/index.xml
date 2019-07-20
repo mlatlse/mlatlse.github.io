@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bootcamps on LSE SU Machine Learning Society</title>
+    <link>https://chrischia06.github.io/bootcamps/</link>
+    <description>Recent content in Bootcamps on LSE SU Machine Learning Society</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sun, 21 Jul 2019 00:00:44 +0800</lastBuildDate>
+    
+	<atom:link href="https://chrischia06.github.io/bootcamps/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Test</title>
+      <link>https://chrischia06.github.io/bootcamps/test/</link>
+      <pubDate>Sun, 21 Jul 2019 00:00:44 +0800</pubDate>
+      
+      <guid>https://chrischia06.github.io/bootcamps/test/</guid>
+      <description>Bootcamps</description>
+    </item>
+    
+  </channel>
+</rss>
