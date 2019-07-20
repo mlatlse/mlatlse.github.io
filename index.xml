@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>LSE SU Machine Learning Society</title>
-    <link>chrischia06.github.io/</link>
+    <link>https://chrischia06.github.io/</link>
     <description>Recent content on LSE SU Machine Learning Society</description>
     <generator>Hugo -- gohugo.io</generator>
     
-	<atom:link href="chrischia06.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://chrischia06.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
