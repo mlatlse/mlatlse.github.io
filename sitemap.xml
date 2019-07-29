@@ -3,7 +3,18 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://chrischia06.github.io/bootcamps/hello-world/</loc>
+    <lastmod>2019-07-21T00:00:44+08:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://chrischia06.github.io/bootcamps/</loc>
+    <lastmod>2019-07-21T00:00:44+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://chrischia06.github.io/categories/</loc>
     <lastmod>2019-07-21T00:00:44+08:00</lastmod>
     <priority>0</priority>
   </url>
@@ -15,13 +26,8 @@
   </url>
   
   <url>
-    <loc>https://chrischia06.github.io/bootcamps/test/</loc>
+    <loc>https://chrischia06.github.io/categories/learning/</loc>
     <lastmod>2019-07-21T00:00:44+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://chrischia06.github.io/categories/</loc>
-    <lastmod>2019-07-20T20:40:05+08:00</lastmod>
     <priority>0</priority>
   </url>
   

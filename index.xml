@@ -11,12 +11,18 @@
     
     
     <item>
-      <title>Test</title>
-      <link>https://chrischia06.github.io/bootcamps/test/</link>
+      <title>2018-2019 Bootcamp Materials</title>
+      <link>https://chrischia06.github.io/bootcamps/hello-world/</link>
       <pubDate>Sun, 21 Jul 2019 00:00:44 +0800</pubDate>
       
-      <guid>https://chrischia06.github.io/bootcamps/test/</guid>
-      <description>Bootcamps</description>
+      <guid>https://chrischia06.github.io/bootcamps/hello-world/</guid>
+      <description>-- Bootcamp 1 - Introduction 
+Bootcamp 2 - Tree Based Models
+Bootcamp 3 - Support Vector Machines
+Bootcamp 4 - Unsupervised Learning
+Bootcamp 5 - Neural Networks
+Bootcamp 6 - Natural Language Processing 
+Bootcamp 7 - LIME</description>
     </item>
     
     <item>
@@ -25,7 +31,7 @@
       <pubDate>Sat, 20 Jul 2019 20:40:05 +0800</pubDate>
       
       <guid>https://chrischia06.github.io/events/giveitago/</guid>
-      <description>##We look forward to seeing you at our inaugaral session for the 2019-2020 year</description>
+      <description> Welcome to ML@LSE We look forward to seeing you in the 2019-2020 year </description>
     </item>
     
     <item>
@@ -44,9 +50,9 @@ Ivan Sayapin (Vice-President of Events 2018-2019)   </description>
       <pubDate>Sat, 20 Jul 2019 20:39:58 +0800</pubDate>
       
       <guid>https://chrischia06.github.io/projects/datatonic/</guid>
-      <description>Poster: https://gitlab.com/mlatlse/amazon-project/blob/master/poster.pdf
-You can see the finished product here 
-Or view documentation about this project here</description>
+      <description>Under an industry mentorship programme with Datatonic, members implemented an end to end machine learning model, and presented a poster at LSE SEDS 2019 
+You can see the finished product here  and view the source code for this project here 
+If you&amp;rsquo;re interested in working on a new project for the 2019-2020 year, then we would love to hear from you. Prerequisites include: good knowledge of Python with understanding of numpy, pandas, and basics of TensorFlow.</description>
     </item>
     
   </channel>
