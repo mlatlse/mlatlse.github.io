@@ -3,75 +3,75 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://chrischia06.github.io/bootcamps/hello-world/</loc>
+    <loc>https://mlatlse.github.io/bootcamps/hello-world/</loc>
     <lastmod>2019-07-21T00:00:44+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://chrischia06.github.io/bootcamps/</loc>
-    <lastmod>2019-07-21T00:00:44+08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://chrischia06.github.io/categories/</loc>
+    <loc>https://mlatlse.github.io/bootcamps/</loc>
     <lastmod>2019-07-21T00:00:44+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://chrischia06.github.io/</loc>
+    <loc>https://mlatlse.github.io/categories/</loc>
     <lastmod>2019-07-21T00:00:44+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://chrischia06.github.io/categories/learning/</loc>
+    <loc>https://mlatlse.github.io/</loc>
     <lastmod>2019-07-21T00:00:44+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://chrischia06.github.io/events/</loc>
+    <loc>https://mlatlse.github.io/categories/learning/</loc>
+    <lastmod>2019-07-21T00:00:44+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://mlatlse.github.io/events/</loc>
     <lastmod>2019-07-20T20:40:05+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://chrischia06.github.io/events/giveitago/</loc>
+    <loc>https://mlatlse.github.io/events/giveitago/</loc>
     <lastmod>2019-07-20T20:40:05+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://chrischia06.github.io/categories/events/</loc>
+    <loc>https://mlatlse.github.io/categories/events/</loc>
     <lastmod>2019-07-20T20:40:05+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://chrischia06.github.io/committee/</loc>
+    <loc>https://mlatlse.github.io/committee/</loc>
     <lastmod>2019-07-20T20:39:58+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://chrischia06.github.io/projects/datatonic/</loc>
+    <loc>https://mlatlse.github.io/projects/datatonic/</loc>
     <lastmod>2019-07-20T20:39:58+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://chrischia06.github.io/categories/projects/</loc>
-    <lastmod>2019-07-20T20:39:58+08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://chrischia06.github.io/projects/</loc>
+    <loc>https://mlatlse.github.io/categories/projects/</loc>
     <lastmod>2019-07-20T20:39:58+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://chrischia06.github.io/tags/</loc>
+    <loc>https://mlatlse.github.io/projects/</loc>
+    <lastmod>2019-07-20T20:39:58+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://mlatlse.github.io/tags/</loc>
     <priority>0</priority>
   </url>
   

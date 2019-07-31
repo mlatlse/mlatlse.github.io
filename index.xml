@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>LSE SU Machine Learning Society</title>
-    <link>https://chrischia06.github.io/</link>
+    <link>https://mlatlse.github.io/</link>
     <description>Recent content on LSE SU Machine Learning Society</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Sun, 21 Jul 2019 00:00:44 +0800</lastBuildDate>
     
-	<atom:link href="https://chrischia06.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://mlatlse.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>2018-2019 Bootcamp Materials</title>
-      <link>https://chrischia06.github.io/bootcamps/hello-world/</link>
+      <link>https://mlatlse.github.io/bootcamps/hello-world/</link>
       <pubDate>Sun, 21 Jul 2019 00:00:44 +0800</pubDate>
       
-      <guid>https://chrischia06.github.io/bootcamps/hello-world/</guid>
+      <guid>https://mlatlse.github.io/bootcamps/hello-world/</guid>
       <description>-- Bootcamp 1 - Introduction 
 Bootcamp 2 - Tree Based Models
 Bootcamp 3 - Support Vector Machines
@@ -27,29 +27,29 @@ Bootcamp 7 - LIME</description>
     
     <item>
       <title>Give It A Go</title>
-      <link>https://chrischia06.github.io/events/giveitago/</link>
+      <link>https://mlatlse.github.io/events/giveitago/</link>
       <pubDate>Sat, 20 Jul 2019 20:40:05 +0800</pubDate>
       
-      <guid>https://chrischia06.github.io/events/giveitago/</guid>
+      <guid>https://mlatlse.github.io/events/giveitago/</guid>
       <description> Welcome to ML@LSE We look forward to seeing you in the 2019-2020 year </description>
     </item>
     
     <item>
       <title>Committee</title>
-      <link>https://chrischia06.github.io/committee/</link>
+      <link>https://mlatlse.github.io/committee/</link>
       <pubDate>Sat, 20 Jul 2019 20:39:58 +0800</pubDate>
       
-      <guid>https://chrischia06.github.io/committee/</guid>
+      <guid>https://mlatlse.github.io/committee/</guid>
       <description> .rounded-circle{ border-radius:100%; width:30%; border-color:2px solid yellow; display:inline; } .member { display:inline; }  Jiong Wei Lua  
 Ivan Sayapin (Vice-President of Events 2018-2019)   </description>
     </item>
     
     <item>
       <title>Datatonic Project</title>
-      <link>https://chrischia06.github.io/projects/datatonic/</link>
+      <link>https://mlatlse.github.io/projects/datatonic/</link>
       <pubDate>Sat, 20 Jul 2019 20:39:58 +0800</pubDate>
       
-      <guid>https://chrischia06.github.io/projects/datatonic/</guid>
+      <guid>https://mlatlse.github.io/projects/datatonic/</guid>
       <description>Under an industry mentorship programme with Datatonic, members implemented an end to end machine learning model, and presented a poster at LSE SEDS 2019 
 You can see the finished product here  and view the source code for this project here 
 If you&amp;rsquo;re interested in working on a new project for the 2019-2020 year, then we would love to hear from you. Prerequisites include: good knowledge of Python with understanding of numpy, pandas, and basics of TensorFlow.</description>

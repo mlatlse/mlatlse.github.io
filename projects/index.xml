@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects on LSE SU Machine Learning Society</title>
-    <link>https://chrischia06.github.io/projects/</link>
+    <link>https://mlatlse.github.io/projects/</link>
     <description>Recent content in Projects on LSE SU Machine Learning Society</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Sat, 20 Jul 2019 20:39:58 +0800</lastBuildDate>
     
-	<atom:link href="https://chrischia06.github.io/projects/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://mlatlse.github.io/projects/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Datatonic Project</title>
-      <link>https://chrischia06.github.io/projects/datatonic/</link>
+      <link>https://mlatlse.github.io/projects/datatonic/</link>
       <pubDate>Sat, 20 Jul 2019 20:39:58 +0800</pubDate>
       
-      <guid>https://chrischia06.github.io/projects/datatonic/</guid>
+      <guid>https://mlatlse.github.io/projects/datatonic/</guid>
       <description>Under an industry mentorship programme with Datatonic, members implemented an end to end machine learning model, and presented a poster at LSE SEDS 2019 
 You can see the finished product here  and view the source code for this project here 
 If you&amp;rsquo;re interested in working on a new project for the 2019-2020 year, then we would love to hear from you. Prerequisites include: good knowledge of Python with understanding of numpy, pandas, and basics of TensorFlow.</description>

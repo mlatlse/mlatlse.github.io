@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Events on LSE SU Machine Learning Society</title>
-    <link>https://chrischia06.github.io/events/</link>
+    <link>https://mlatlse.github.io/events/</link>
     <description>Recent content in Events on LSE SU Machine Learning Society</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Sat, 20 Jul 2019 20:40:05 +0800</lastBuildDate>
     
-	<atom:link href="https://chrischia06.github.io/events/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://mlatlse.github.io/events/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Give It A Go</title>
-      <link>https://chrischia06.github.io/events/giveitago/</link>
+      <link>https://mlatlse.github.io/events/giveitago/</link>
       <pubDate>Sat, 20 Jul 2019 20:40:05 +0800</pubDate>
       
-      <guid>https://chrischia06.github.io/events/giveitago/</guid>
+      <guid>https://mlatlse.github.io/events/giveitago/</guid>
       <description> Welcome to ML@LSE We look forward to seeing you in the 2019-2020 year </description>
     </item>
     

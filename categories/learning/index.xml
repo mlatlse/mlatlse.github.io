@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>learning on LSE SU Machine Learning Society</title>
-    <link>https://chrischia06.github.io/categories/learning/</link>
+    <link>https://mlatlse.github.io/categories/learning/</link>
     <description>Recent content in learning on LSE SU Machine Learning Society</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Sun, 21 Jul 2019 00:00:44 +0800</lastBuildDate>
     
-	<atom:link href="https://chrischia06.github.io/categories/learning/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://mlatlse.github.io/categories/learning/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>2018-2019 Bootcamp Materials</title>
-      <link>https://chrischia06.github.io/bootcamps/hello-world/</link>
+      <link>https://mlatlse.github.io/bootcamps/hello-world/</link>
       <pubDate>Sun, 21 Jul 2019 00:00:44 +0800</pubDate>
       
-      <guid>https://chrischia06.github.io/bootcamps/hello-world/</guid>
+      <guid>https://mlatlse.github.io/bootcamps/hello-world/</guid>
       <description>-- Bootcamp 1 - Introduction 
 Bootcamp 2 - Tree Based Models
 Bootcamp 3 - Support Vector Machines
