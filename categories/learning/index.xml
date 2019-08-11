@@ -5,10 +5,19 @@
     <link>https://mlatlse.github.io/categories/learning/</link>
     <description>Recent content in learning on LSE SU Machine Learning Society</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 21 Jul 2019 00:00:44 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 11 Aug 2019 08:27:00 +0800</lastBuildDate>
     
 	<atom:link href="https://mlatlse.github.io/categories/learning/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Corporate Dividend Determinants with Tobit Modelling</title>
+      <link>https://mlatlse.github.io/bootcamps/course1/</link>
+      <pubDate>Sun, 11 Aug 2019 08:27:00 +0800</pubDate>
+      
+      <guid>https://mlatlse.github.io/bootcamps/course1/</guid>
+      <description>The first course of the year is here! This course provides a step-by-step tutorial, complete with notes, video lectures, and code. You will walk through a project, producing an analysis of the underlying determinants of corporate dividends. The complete course can be found here at:  financeai.co.uk - Corporate Dividend Determinants with Tobit Modelling</description>
+    </item>
     
     <item>
       <title>2018-2019 Bootcamp Materials</title>

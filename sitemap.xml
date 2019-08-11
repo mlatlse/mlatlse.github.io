@@ -3,32 +3,37 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://mlatlse.github.io/bootcamps/hello-world/</loc>
-    <lastmod>2019-07-21T00:00:44+08:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://mlatlse.github.io/bootcamps/</loc>
-    <lastmod>2019-07-21T00:00:44+08:00</lastmod>
+    <lastmod>2019-08-11T08:27:00+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://mlatlse.github.io/categories/</loc>
-    <lastmod>2019-07-21T00:00:44+08:00</lastmod>
+    <lastmod>2019-08-11T08:27:00+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
+    <loc>https://mlatlse.github.io/bootcamps/course1/</loc>
+    <lastmod>2019-08-11T08:27:00+08:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://mlatlse.github.io/</loc>
-    <lastmod>2019-07-21T00:00:44+08:00</lastmod>
+    <lastmod>2019-08-11T08:27:00+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://mlatlse.github.io/categories/learning/</loc>
-    <lastmod>2019-07-21T00:00:44+08:00</lastmod>
+    <lastmod>2019-08-11T08:27:00+08:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://mlatlse.github.io/bootcamps/hello-world/</loc>
+    <lastmod>2019-07-21T00:00:44+08:00</lastmod>
   </url>
   
   <url>
